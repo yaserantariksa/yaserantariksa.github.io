@@ -1,0 +1,35 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on yaserantariksa</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on yaserantariksa</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Mon, 15 Aug 2022 20:13:41 +0700</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Posting Pertama</title>
+            <link>http://localhost:1313/posts/posting-pertama/</link>
+            <pubDate>Mon, 15 Aug 2022 20:13:41 +0700</pubDate>
+            
+            <guid>http://localhost:1313/posts/posting-pertama/</guid>
+            <description>Posting ini adalah posting pertama saat saya mencoba Framework HUGO. Dengan deskripsi &amp;ldquo;Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&amp;rdquo; jadi bikin penasaran buat di coba.
+Coba coba dikit, browsing browsing dikit, oks kayaknya bisa juga dipake bwt bikin blog di github pages.
+oy oy jadi makin menarik nih.
+Sebenernya skr saya lagi seneng seneng nya bikin sample project android jetpack compose.</description>
+            <content type="html"><![CDATA[<p>Posting ini adalah posting pertama saat saya mencoba Framework HUGO. Dengan deskripsi &ldquo;Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&rdquo; jadi bikin penasaran buat di coba.</p>
+<p>Coba coba dikit, browsing browsing dikit, oks kayaknya bisa juga dipake bwt bikin blog di github pages.</p>
+<p>oy oy jadi makin menarik nih.</p>
+<p>Sebenernya skr saya lagi seneng seneng nya bikin sample project android jetpack compose. Sementara saya potong dulu deh bwt saya ulik ulik dulu HUGO ini.</p>
+<p>Bener ngak sih &ldquo;Hugo makes building websites fun again&rdquo; ??</p>
+<p>Ternyata ini framework nya Go Lang. Duh, saya belum pernah belajar golang nih. Tapi kayaknya liat di dokumentasi nya sama liat Quick Startnya, sepertinya ini bisa dimengerti sama otak saya.</p>
+<p>Singkat cerita &hellip; ikutin Quick Start &hellip; trus cari caranya bwt masukin ke github pages. Trus .. jadi lah yaserantariksa.github.io yang sekarang ini.</p>
+<p>So far so good.</p>
+<p>Sekian dulu rekan rekan semua. Ketemu lagi di posting an selanjutnya.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
